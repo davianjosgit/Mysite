@@ -1,0 +1,34 @@
+body{
+
+    text-align: center;
+    background: url("https://images8.alphacoders.com/501/thumb-1920-501444.png");
+    background: cover;
+    background-position: center;
+    }
+    p{
+    
+    color: rgb(5, 5, 5);
+    font-size: larger;
+    }
+    img{
+    
+     border-radius: 50%;  
+      
+     
+    }
+    input{
+    border: 0px;
+    padding: 10px;   
+    }input[type="submit"]{
+    background-color: rgb(190, 18, 90);
+    color:white;
+    
+    }#buttoninput:hover{
+    
+        background-color: aliceblue;
+        color: rgb(190, 18, 90) ;
+    }form{
+    
+        display: inline;
+    }
+    
